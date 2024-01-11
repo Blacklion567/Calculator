@@ -1,0 +1,1 @@
+Building a basic calculator is a beginner-friendly coding project that enhances programming skills by incorporating concepts such as user input, variables, conditional statements, and arithmetic operations.
